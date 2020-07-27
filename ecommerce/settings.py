@@ -139,9 +139,9 @@ STATICFILES_DIRS = (
 # )
 
 
-MEDIA_URL = '/images/'
+MEDIA_URL = '/images-products/'
 
-MEDIA_ROOT = os.path.join(BASE_DIR, 'staticfiles/images')
+MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images-products')
 
 
 # #  Add configuration for static files storage using whitenoise
