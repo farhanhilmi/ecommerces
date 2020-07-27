@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '*(=u8rrvv_=ub%+@zg@76u7d8b4^^heh%4$^pgg+#3o4_6jbtl'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['farhanhilmi-django-ecommerce.herokuapp.com']
 
